@@ -8,8 +8,9 @@
   "system software")
 ```
 
+- [My Blog](http://dannypsnl.github.io/)
 - I'm working on project
-  - racket.tw site
+  - [racket.tw site](https://racket-tw.github.io/)
   - a small logic programming language
   - a subset of racket
 - I'm learning
