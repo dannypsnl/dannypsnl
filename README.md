@@ -5,7 +5,12 @@
   (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
         [else "Danny"])
   "programming language theory"
-  "system software")
+  "system software"
+  '(racket
+    coq
+    haskell
+    agda
+    rust))
 ```
 
 - [My Blog](http://dannypsnl.github.io/)
