@@ -21,7 +21,6 @@
 - I'm learning
   - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
   - logic programming & unification
-  - universe hierarchies
 - Ask me about CS
 - You can reach me using email
 - Pronouns: He/Him?
