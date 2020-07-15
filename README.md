@@ -17,7 +17,6 @@
 - I'm working on project
   - [racket.tw site](https://racket-tw.github.io/)
   - a small logic programming language
-  - a subset of racket
 - I'm learning
   - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
   - logic programming & unification
