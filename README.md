@@ -16,6 +16,7 @@
 - [My Blog](http://dannypsnl.github.io/)
 - I'm working on project
   - [racket.tw site](https://racket-tw.github.io/)
+  - [write-a-programming-language](https://github.com/dannypsnl/write-a-programming-language): A tutorial about how to make a new language(and why we shouldn't?)
   - a small logic programming language
 - I'm learning
   - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
