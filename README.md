@@ -4,8 +4,9 @@
 (list
   (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
         [else "Danny"])
-  "programming language theory"
-  "system software"
+  '(focus on
+    programming language theory
+    system software: networking & OS)
   '(I like
     racket
     coq
