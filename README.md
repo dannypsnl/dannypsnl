@@ -1,4 +1,4 @@
-[![my github stats](https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=tokyonight)](https://github.com/dannypsnl)
 
 ```racket
 (list
