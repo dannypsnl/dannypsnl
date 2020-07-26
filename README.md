@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML" />
-
 [![my github stats](https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=tokyonight)](https://github.com/dannypsnl)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML" />
 
 ```racket
 (list
