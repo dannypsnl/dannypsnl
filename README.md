@@ -32,7 +32,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=plt-research)](https://github.com/dannypsnl/plt-research)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=inductive)](https://github.com/dannypsnl/inductive)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=intellij-racket)](https://github.com/racket-tw/intellij-racket)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=sauron)](https://github.com/racket-tw/sauron)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=useless-math)](https://github.com/dannypsnl/useless-math)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=xnix)](https://github.com/dannypsnl/xnix)
