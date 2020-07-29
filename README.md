@@ -17,9 +17,6 @@
 ```
 
 - [My Blog](http://dannypsnl.github.io/)
-- I'm working on project
-  - a small logic programming language
-  - partial evalutor with inductive type
 - I'm learning
   - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
   - logic programming & unification
