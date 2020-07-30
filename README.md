@@ -16,11 +16,9 @@
     rust))
 ```
 
-- [My Blog](http://dannypsnl.github.io/)
 - I'm learning
   - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
   - logic programming & unification
-- Ask me about PL, Networking, and OS
 - You can reach me using email: dannypsnl@gmail.com
 - Pronouns: He/Him?
 - Fun fact: ?
