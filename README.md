@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML,css,Go,JavaScript" />
-<img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
 
 ```racket
 (list
