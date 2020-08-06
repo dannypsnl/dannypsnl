@@ -10,6 +10,7 @@
     system software: networking & OS)
   '(I like
     racket
+    arend
     coq
     haskell
     agda
