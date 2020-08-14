@@ -1,6 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML,css,Go,JavaScript" />
 <img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
 
+[![GitHub](https://img.shields.io/github/followers/dannypsnl?style=social)](https://github.com/dannypsnl)
+[![Twitter](https://img.shields.io/twitter/follow/dannypsnl?style=social)](https://twitter.com/dannypsnl)
+
 ```racket
 (list
   (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
