@@ -33,10 +33,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=useless-math)](https://github.com/dannypsnl/useless-math)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=intel-go&repo=nff-go)](https://github.com/intel-go/nff-go)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=redux)](https://github.com/dannypsnl/redux)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=elz)](https://github.com/dannypsnl/elz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=rocket)](https://github.com/dannypsnl/rocket)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=little-scheme)](https://github.com/dannypsnl/little-scheme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
 
 ### Tutorial
