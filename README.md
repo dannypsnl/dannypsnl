@@ -5,27 +5,27 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
 
 ```racket
-(list
-  (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
-        [else "Danny"])
-  '(focus on
-    programming language theory
-    system software: networking & OS)
-  '(I like
-    racket
-    arend
-    coq
-    haskell
-    agda
-    rust))
+(information
+  #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
+               [else "Danny"])
+  #:focus-on
+    '(programming language theory
+      networking
+      OS)
+  #:langauges
+    '(racket
+      arend
+      coq
+      haskell
+      agda
+      rust)
+  #:learning 
+    '(the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
+      logic programming & unification)
+  #:mail '(dannypsnl@gmail.com)
+  #:Pronouns: '(He Him)
+  #:fun-fact #f)
 ```
-
-- I'm learning
-  - the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
-  - logic programming & unification
-- You can reach me using email: dannypsnl@gmail.com
-- Pronouns: He/Him?
-- Fun fact: ?
 
 ### Contribution
 
