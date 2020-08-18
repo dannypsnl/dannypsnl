@@ -8,9 +8,7 @@
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [else "Danny"])
-  #:focus-on '(programming language theory
-               networking
-               OS)
+  #:focus-on '(PLT networking OS)
   #:langauges '(racket haskell rust)
   #:prover '(arend isabelle coq agda)
   #:learning '(how to make a language based on calculus of inductive construction
