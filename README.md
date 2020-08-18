@@ -8,21 +8,16 @@
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [else "Danny"])
-  #:focus-on
-    '(programming language theory
-      networking
-      OS)
-  #:langauges
-    '(racket
-      arend
-      coq
-      haskell
-      agda
-      rust)
-  #:learning 
-    '(the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem
-      logic programming & unification)
-  #:mail '(dannypsnl@gmail.com)
+  #:focus-on '(programming language theory
+               networking
+               OS)
+  #:langauges '(racket haskell rust)
+  #:prover '(arend isabelle coq agda)
+  #:learning '(how to make a language based on calculus of inductive construction
+               the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
+  #:making '(Racket IDE
+             compiler tutorial)
+  #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
   #:fun-fact #f)
 ```
