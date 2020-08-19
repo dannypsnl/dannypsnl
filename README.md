@@ -20,6 +20,12 @@
   #:fun-fact #f)
 ```
 
+### Tutorial
+
+- [write-a-programming-language](https://github.com/dannypsnl/write-a-programming-language): A tutorial about how to make a new language(and why we shouldn't?)
+- [racket.tw site](https://racket-tw.github.io/)
+- https://llir.github.io/document/
+
 ### Contribution
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=sauron)](https://github.com/racket-tw/sauron)
@@ -30,9 +36,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=intel-go&repo=nff-go)](https://github.com/intel-go/nff-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
-
-### Tutorial
-
-- [write-a-programming-language](https://github.com/dannypsnl/write-a-programming-language): A tutorial about how to make a new language(and why we shouldn't?)
-- [racket.tw site](https://racket-tw.github.io/)
-- https://llir.github.io/document/
