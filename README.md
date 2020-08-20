@@ -23,8 +23,8 @@
 ### Tutorial
 
 - [write-a-programming-language](https://github.com/dannypsnl/write-a-programming-language): A tutorial about how to make a new language(and why we shouldn't?)
-- [racket.tw site](https://racket-tw.github.io/)
-- https://llir.github.io/document/
+- ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) [racket.tw site](https://racket-tw.github.io/)
+- ![LLVM](https://llvm.org/img/DragonSmall.png) https://llir.github.io/document/
 
 ### Contribution
 
