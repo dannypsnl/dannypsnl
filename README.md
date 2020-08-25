@@ -11,7 +11,10 @@
   #:focus-on '(PLT networking OS)
   #:languages '(racket haskell rust)
   #:prover '(arend isabelle coq agda)
-  #:learning '(how to make a language based on calculus of inductive construction
+  #:learning '(homotopy type theory
+               cubical type theory
+               modal type theory
+               logic programming
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(Racket IDE
              compiler tutorial)
