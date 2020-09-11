@@ -36,6 +36,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=inductive)](https://github.com/dannypsnl/inductive)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=logical)](https://github.com/dannypsnl/logical)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=useless-math)](https://github.com/dannypsnl/useless-math)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=intel-go&repo=nff-go)](https://github.com/intel-go/nff-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
