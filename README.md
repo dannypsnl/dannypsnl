@@ -38,4 +38,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=useless-math)](https://github.com/dannypsnl/useless-math)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=template-scribble-pdf)](https://github.com/dannypsnl/template-scribble-pdf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
