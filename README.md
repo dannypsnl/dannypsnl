@@ -16,7 +16,7 @@
   #:learning '(homotopy type theory
                cubical type theory
                modal type theory
-               logic programming
+               Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(Racket IDE
              compiler tutorial)
