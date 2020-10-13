@@ -40,3 +40,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=template-scribble-pdf)](https://github.com/dannypsnl/template-scribble-pdf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=racket-project)](https://github.com/dannypsnl/racket-project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
+
+### Keyboard Layout
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=planck_layout)](https://github.com/dannypsnl/planck_layout)
