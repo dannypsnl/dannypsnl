@@ -22,7 +22,7 @@
              compiler tutorial)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
-  #:fun-fact '(most native speaker of chinese/taiwanese can't pronounce my name correctly))
+  #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
 ```
 
 ### Tutorial
