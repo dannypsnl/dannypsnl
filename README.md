@@ -3,7 +3,7 @@
   <a href="https://twitter.com/dannypsnl"><img src="https://img.shields.io/twitter/follow/dannypsnl?style=social" alt="Twitter"></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML,css,JavaScript&theme=prussian" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&hide=HTML,css,Rust,Go,JavaScript&theme=prussian" />
 <img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
 
 ```racket
