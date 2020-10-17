@@ -34,12 +34,20 @@
 ### Contribution
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=sauron)](https://github.com/racket-tw/sauron)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=plt-research)](https://github.com/dannypsnl/plt-research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=incr)](https://github.com/dannypsnl/incr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=extend)](https://github.com/dannypsnl/extend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=plt-research)](https://github.com/dannypsnl/plt-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=inductive)](https://github.com/dannypsnl/inductive)
+
+### Template
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=template-scribble-pdf)](https://github.com/dannypsnl/template-scribble-pdf)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=racket-project)](https://github.com/dannypsnl/racket-project)
+
+### For Fun
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
 
 ### Keyboard Layout
