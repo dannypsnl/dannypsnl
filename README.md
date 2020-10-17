@@ -49,6 +49,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=little-scheme)](https://github.com/dannypsnl/little-scheme)
 
 ### Keyboard Layout
 
