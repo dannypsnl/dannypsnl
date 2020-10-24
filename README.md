@@ -4,7 +4,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypsnl&layout=compact&hide=HTML,css,JavaScript&theme=prussian" />
 
 ```racket
 (information
