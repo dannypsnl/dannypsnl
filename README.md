@@ -10,7 +10,7 @@
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [else "Danny"])
   #:focus-on '(PLT networking OS)
-  #:languages '(racket haskell rust)
+  #:languages '(racket haskell)
   #:prover '(arend isabelle coq agda)
   #:learning '(homotopy type theory
                cubical type theory
@@ -18,7 +18,9 @@
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(Racket IDE
-             compiler tutorial)
+             compiler tutorial
+             llir/llvm document
+             shark language)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
