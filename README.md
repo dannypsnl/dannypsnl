@@ -29,7 +29,6 @@
 ### Tutorial
 
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
-- ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) [racket.tw site](https://racket.tw)
 - ![LLVM](https://llvm.org/img/DragonSmall.png) https://llir.github.io/document/
 
 ### Contribution
