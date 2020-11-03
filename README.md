@@ -41,7 +41,7 @@
 
 #### Tutorial
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
 
 #### Template
 
