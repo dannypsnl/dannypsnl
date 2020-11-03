@@ -26,11 +26,6 @@
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
 ```
 
-### Tutorial
-
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
-- ![LLVM](https://llvm.org/img/DragonSmall.png) https://llir.github.io/document/
-
 ### Contribution
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=sauron)](https://github.com/racket-tw/sauron)
@@ -43,6 +38,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=incr)](https://github.com/dannypsnl/incr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=controllable-refinement)](https://github.com/dannypsnl/controllable-refinement)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=inductive)](https://github.com/dannypsnl/inductive)
+
+#### Tutorial
+
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
 
 #### Template
 
