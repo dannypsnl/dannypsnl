@@ -9,17 +9,17 @@
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [else "Danny"])
-  #:focus-on '(PLT networking OS)
-  #:languages '(racket haskell)
-  #:prover '(arend isabelle coq agda)
+  #:focus-on '(PLT Networking OS)
+  #:language '(racket haskell)
+  #:prover '(arend isabelle agda)
   #:learning '(homotopy type theory
                cubical type theory
                modal type theory
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(Racket IDE
+             Racket LLVM
              compiler tutorial
-             llir/llvm document
              shark language)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
