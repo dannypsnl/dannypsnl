@@ -43,13 +43,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
 
-#### Template
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=template-scribble-pdf)](https://github.com/dannypsnl/template-scribble-pdf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=racket-project)](https://github.com/dannypsnl/racket-project)
-
 #### For Fun
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=raytracer)](https://github.com/dannypsnl/raytracer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=cc)](https://github.com/racket-tw/cc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=little-scheme)](https://github.com/dannypsnl/little-scheme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=kubenet)](https://github.com/dannypsnl/kubenet)
