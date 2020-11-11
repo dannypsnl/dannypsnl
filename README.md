@@ -26,10 +26,6 @@
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
 ```
 
-#### Tutorial
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=macro-magic)](https://github.com/dannypsnl/macro-magic)
-
 #### For Fun
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=cbf)](https://github.com/dannypsnl/cbf)
