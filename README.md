@@ -17,9 +17,9 @@
                modal type theory
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
-  #:making '(Racket IDE
-             Racket LLVM
-             compiler tutorial
+  #:making '(racket IDE
+             incr: theorem prover
+             language design tutorial
              shark language)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
