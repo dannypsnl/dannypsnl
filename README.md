@@ -26,22 +26,8 @@
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
 ```
 
-### Contribution
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-tw&repo=sauron)](https://github.com/racket-tw/sauron)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llir&repo=llvm)](https://github.com/llir/llvm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=extend)](https://github.com/dannypsnl/extend)
-
-#### PLT
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=plt-research)](https://github.com/dannypsnl/plt-research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=incr)](https://github.com/dannypsnl/incr)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=controllable-refinement)](https://github.com/dannypsnl/controllable-refinement)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=inductive)](https://github.com/dannypsnl/inductive)
-
 #### Tutorial
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=write-a-programming-language)](https://github.com/dannypsnl/write-a-programming-language)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dannypsnl&repo=macro-magic)](https://github.com/dannypsnl/macro-magic)
 
 #### For Fun
