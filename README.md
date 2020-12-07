@@ -14,7 +14,6 @@
   #:prover '(arend isabelle agda)
   #:learning '(homotopy type theory
                cubical type theory
-               modal type theory
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
