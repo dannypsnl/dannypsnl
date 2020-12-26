@@ -10,8 +10,8 @@
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(racket haskell)
-  #:prover '(arend isabelle agda)
+  #:language '(racket)
+  #:prover '(arend agda)
   #:learning '(homotopy type theory
                cubical type theory
                Extensible records with scoped labels
