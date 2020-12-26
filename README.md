@@ -16,8 +16,7 @@
                cubical type theory
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
-  #:making '(sauron: racket IDE
-             incr: theorem prover)
+  #:making '(sauron: racket IDE)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
