@@ -8,15 +8,17 @@
 ```racket
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
+               [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
   #:language '(racket)
-  #:prover '(arend agda)
+  #:prover '(arend coq agda)
   #:learning '(homotopy type theory
                cubical type theory
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
-  #:making '(sauron: racket IDE)
+  #:making '(sauron: racket IDE
+             typical: dependent type language)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
