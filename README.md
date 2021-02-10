@@ -18,8 +18,14 @@
                Extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
-             typical: dependent type language)
+             racket entry level tutorial
+             encode dependent type by racket macro)
   #:mail "dannypsnl@gmail.com"
   #:Pronouns: '(He Him)
+  #:languages: '((Taiwanese . native)
+                 (Chinese . native)
+                 (English . fluent)
+                 (Deutsch . Ich kann kein Deutsch sprechen)
+                 (Japanese . 日本語がわからない))
   #:fun-fact '(most native speaker of chinese/taiwanese cannot pronounce my name correctly))
 ```
