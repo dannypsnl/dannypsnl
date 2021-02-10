@@ -21,7 +21,8 @@
              racket entry level tutorial
              encode dependent type by racket macro)
   #:mail "dannypsnl@gmail.com"
-  #:Pronouns: '(He Him)
+  #:pronouns: '(He Him)
+  #:os '(NixOS MacOS)
   #:languages: '((Taiwanese . native)
                  (Chinese . native)
                  (English . fluent)
