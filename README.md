@@ -13,14 +13,13 @@
   #:focus-on '(PLT Networking OS)
   #:language '(racket)
   #:prover '(arend coq agda)
-  #:learning '(homotopy type theory
-               cubical type theory
-               Extensible records with scoped labels
+  #:learning '(homotopy/cubical type theory
+               extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
              racket entry level tutorial
-             encode dependent type by racket macro
-             rocket: Go web framework)
+             rocket: Go web framework
+             no: another programming language)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
