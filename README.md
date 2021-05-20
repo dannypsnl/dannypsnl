@@ -23,8 +23,8 @@
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
-  #:languages: '((Taiwanese . native)
-                 (Chinese . native)
+  #:languages: '((Taiwanese . thian-jiân)
+                 (Chinese . 母語)
                  (English . fluent)
                  (Deutsch . Ich kann kein Deutsch sprechen)
                  (Japanese . 日本語がわからない))
