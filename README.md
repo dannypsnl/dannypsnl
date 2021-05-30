@@ -18,8 +18,7 @@
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
              racket entry level tutorial
-             rocket: Go web framework
-             no: another programming language)
+             rocket: Go web framework)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
