@@ -11,13 +11,13 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(racket)
+  #:language '(racket erlang/elixir)
   #:prover '(arend coq agda)
   #:learning '(homotopy/cubical type theory
                extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
-             racket entry level tutorial
+             code-analyzer: racket language service foundation
              rocket: Go web framework)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
