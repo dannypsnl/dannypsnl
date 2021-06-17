@@ -17,8 +17,9 @@
                extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:making '(sauron: racket IDE
-             code-analyzer: racket language service foundation
-             rocket: Go web framework)
+             rocket: Go web framework
+             lsp: provide requests and responses of langauge server protocol
+             no: no script language)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
