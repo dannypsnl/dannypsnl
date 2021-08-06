@@ -16,11 +16,6 @@
   #:learning '(homotopy/cubical type theory
                extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
-  #:making '(sauron: racket IDE
-             rocket: Go web framework
-             raytracer
-             still-compiling
-             radiance)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
