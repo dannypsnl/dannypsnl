@@ -12,7 +12,7 @@
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
   #:language '(racket erlang/elixir)
-  #:prover '(arend coq agda)
+  #:prover '(arend agda)
   #:learning '(homotopy/cubical type theory
                extensible records with scoped labels
                the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
