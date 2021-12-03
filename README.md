@@ -15,7 +15,7 @@
   #:prover '(arend agda)
   #:learning '(homotopy/cubical type theory
                extensible records with scoped labels
-               the relationship between Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
+               Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
