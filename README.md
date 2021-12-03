@@ -11,7 +11,7 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(racket erlang/elixir)
+  #:language '(racket elixir julia)
   #:prover '(arend agda)
   #:learning '(homotopy/cubical type theory
                extensible records with scoped labels
