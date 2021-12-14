@@ -24,7 +24,7 @@
                  (English . fluent)
                  (Deutsch . Ich kann kein Deutsch sprechen)
                  (Japanese . 日本語がわからない))
-  #:fun-fact '(many native speakers of Chinese/Taiwanese cannot pronounce my name correctly))
+  #:fun-fact '(most native speakers of Chinese/Taiwanese cannot pronounce my name correctly))
 ```
 
 ### Talks
