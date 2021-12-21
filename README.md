@@ -14,6 +14,7 @@
   #:language '(racket elixir julia)
   #:prover '(arend agda)
   #:learning '(homotopy/cubical type theory
+               functional programming languages compiling
                extensible records with scoped labels
                Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
   #:mail "dannypsnl@gmail.com"
