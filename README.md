@@ -23,6 +23,7 @@
   #:languages: '((Taiwanese . thian-jiân)
                  (Chinese . 母語)
                  (English . fluent)
+                 (Finnish . Osaan puhua vähän suomea)
                  (Deutsch . Ich kann kein Deutsch sprechen)
                  (Japanese . 日本語がわからない))
   #:fun-fact '(most native speakers of Chinese/Taiwanese cannot pronounce my name correctly))
