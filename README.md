@@ -8,7 +8,7 @@
 ```racket
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
-               [(know-chinese? you) (oneof "悃悃" "林子篆")]
+               [(know-chinese? you) (oneof "悃悃")]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
   #:language '(racket elixir julia)
