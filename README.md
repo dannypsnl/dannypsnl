@@ -13,7 +13,7 @@
   #:focus-on '(PLT Networking OS)
   #:language '(racket elixir julia)
   #:prover '(arend agda)
-  #:learning '(homotopy/cubical type theory
+  #:learning '(cubical type theory
                functional programming languages compiling
                extensible records with scoped labels
                Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
