@@ -31,6 +31,8 @@
 
 ### Talks
 
+- 2022/07 [coscup 2022: closure conversion](https://coscup.org/2022/zh-TW/session/HHWKMW)
+  - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2022-07-closure-conversion.pdf)
 - 2021/04 [clojure taiwan: clojure isn't lisp enough](https://www.meetup.com/Clojure-tw/events/277419019/)
   - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2021-04-clojure-isnt-lisp-enough.pdf)
 - 2021/03 [racketfest: macro as type](https://racketfest.com/)
