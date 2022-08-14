@@ -14,9 +14,11 @@
   #:language '(racket elixir julia)
   #:prover '(arend agda)
   #:learning '(cubical type theory
-               functional programming languages compiling
+               categories for types
+               programming languages compiling
+               sized and dependent type
                extensible records with scoped labels
-               Peano Arithmetic, Presburger Arithmetic, and Gödel incompleteness theorem)
+               Presburger/Peano Arithmetic and Gödel incompleteness theorem)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
