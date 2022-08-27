@@ -13,12 +13,13 @@
   #:focus-on '(PLT Networking OS)
   #:language '(racket elixir julia)
   #:prover '(arend agda)
-  #:learning '(cubical type theory
+  #:learning '(conversion checking
+               cubical type theory
                categories for types
                programming languages compiling
-               sized and dependent type
-               extensible records with scoped labels
-               Presburger/Peano Arithmetic and Gödel incompleteness theorem)
+               sized dependent type
+               glued dependent type
+               extensible records with scoped labels)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
