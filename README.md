@@ -11,15 +11,13 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(racket elixir julia)
+  #:language '(racket haskell elixir julia)
   #:prover '(arend agda)
-  #:learning '(conversion checking
-               cubical type theory
-               categories for types
-               programming languages compiling
+  #:learning '(cubical type theory
                sized dependent type
                glued dependent type
-               extensible records with scoped labels)
+               extensible records with scoped labels
+               bytecode design)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
