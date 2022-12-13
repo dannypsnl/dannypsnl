@@ -14,13 +14,12 @@
   #:language '(racket haskell elixir julia)
   #:prover '(arend agda)
   #:learning '(cubical type theory
-               sized dependent type
-               glued dependent type
+               terimation property, sized/glued dependent type
                extensible records with scoped labels
-               bytecode design)
+               bootstrap compiler)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
-  #:os '(NixOS MacOS)
+  #:os '(MacOS)
   #:languages: '((Taiwanese . thian-jiân)
                  (Chinese . 母語)
                  (English . fluent)
