@@ -11,7 +11,7 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(idris2 racket haskell elixir julia)
+  #:language '(idris2 ocaml haskell racket elixir julia)
   #:prover '(arend agda)
   #:learning '(cubical type theory
                terimation property, sized/glued dependent type
