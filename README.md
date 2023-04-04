@@ -15,7 +15,7 @@
   #:prover '(arend agda)
   #:learning '(modules, dependencies, and build file
                terimation property: sized/glued dependent type
-               modal logic
+               modal logic & properties
                register allocation & instruction selection with SAT
                extensible records with scoped labels
                bootstrap compiler)
