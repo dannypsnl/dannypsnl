@@ -13,8 +13,10 @@
   #:focus-on '(PLT Networking OS)
   #:language '(idris2 ocaml haskell racket elixir julia)
   #:prover '(arend agda)
-  #:learning '(cubical type theory
-               terimation property, sized/glued dependent type
+  #:learning '(modules, dependencies, and build file
+               terimation property: sized/glued dependent type
+               modal logic
+               register allocation & instruction selection with SAT
                extensible records with scoped labels
                bootstrap compiler)
   #:mail "dannypsnl@gmail.com"
