@@ -3,8 +3,6 @@
   <a href="https://twitter.com/dannypsnl"><img src="https://img.shields.io/twitter/follow/dannypsnl?style=social" alt="Twitter"></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&theme=prussian" />
-
 ```racket
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
