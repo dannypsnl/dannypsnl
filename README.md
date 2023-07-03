@@ -14,8 +14,7 @@
   #:learning '(modules, dependencies, and build file
                terimation property: sized/glued dependent type
                modal logic & properties
-               extensible records with scoped labels
-               bootstrap compiler)
+               extensible records with scoped labels)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(MacOS)
