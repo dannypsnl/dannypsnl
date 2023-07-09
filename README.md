@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/dannypsnl?tab=followers"><img src="https://img.shields.io/github/followers/dannypsnl?style=social"></a>
-  <a href="https://twitter.com/dannypsnl"><img src="https://img.shields.io/twitter/follow/dannypsnl?style=social" alt="Twitter"></a>
 </p>
 
 ```racket
