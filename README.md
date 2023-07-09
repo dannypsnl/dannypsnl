@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/dannypsnl?tab=followers"><img src="https://img.shields.io/github/followers/dannypsnl?style=social"></a>
-</p>
-
 ```racket
 (information
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
