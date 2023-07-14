@@ -24,12 +24,12 @@
 
 ### Talks
 
-- 2023/07 [∞-type café 2023](https://hackmd.io/@dannypsnl/BJZ6QoGd3#)
+- 2023/07 ∞-type café 2023: [types cross languages](https://hackmd.io/@dannypsnl/BJZ6QoGd3#)
 - 2022/11 [hami 2022](https://hackmd.io/@dannypsnl/BJpjDSeGj#)
-- 2022/07 [coscup 2022: closure conversion](https://coscup.org/2022/zh-TW/session/HHWKMW)
+- 2022/07 coscup 2022: [closure conversion](https://coscup.org/2022/zh-TW/session/HHWKMW)
   - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2022-07-closure-conversion.pdf)
-- 2021/04 [clojure taiwan: clojure isn't lisp enough](https://www.meetup.com/Clojure-tw/events/277419019/)
+- 2021/04 clojure taiwan: [clojure isn't lisp enough](https://www.meetup.com/Clojure-tw/events/277419019/)
   - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2021-04-clojure-isnt-lisp-enough.pdf)
-- 2021/03 [racketfest: macro as type](https://racketfest.com/)
+- 2021/03 racketfest 2021: [macro as type](https://racketfest.com/)
   - [video](https://youtu.be/BLHxUzj7F-Q)
   - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2021-03-racketfest.rkt)
