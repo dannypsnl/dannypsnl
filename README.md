@@ -24,6 +24,7 @@
 
 ### Talks
 
+- 2023/07 [∞-type café 2023](https://hackmd.io/@dannypsnl/BJZ6QoGd3#)
 - 2022/11 [hami 2022](https://hackmd.io/@dannypsnl/BJpjDSeGj#)
 - 2022/07 [coscup 2022: closure conversion](https://coscup.org/2022/zh-TW/session/HHWKMW)
   - [slide](https://github.com/dannypsnl/dannypsnl/blob/master/talks/2022-07-closure-conversion.pdf)
