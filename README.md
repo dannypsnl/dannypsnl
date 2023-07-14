@@ -4,8 +4,8 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(idris2 haskell racket elixir)
-  #:prover '(lean arend agda)
+  #:language '(haskell julia idris2 elixir racket)
+  #:prover '(lean agda arend)
   #:learning '(modules, dependencies, and build file
                terimation property: sized/glued dependent type
                modal logic & properties
