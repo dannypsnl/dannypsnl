@@ -6,11 +6,11 @@
   #:focus-on '(PLT Networking OS)
   #:language '(haskell julia idris2 elixir racket)
   #:prover '(lean agda arend)
-  #:learning '(modules, dependencies, and cache format
+  #:learning '(natural model
+               modules, dependencies, and cache format
                terimation property: sized/glued dependent type
                homotopy/cubical type theory
-               categorical semantic/model and domain theory
-               modal logic & properties)
+               modal logic & its properties)
   #:mail "dannypsnl@gmail.com"
   #:pronouns: '(He Him)
   #:os '(MacOS)
