@@ -4,7 +4,7 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(haskell julia idris2 elixir racket)
+  #:language '(haskell idris2 elixir racket)
   #:prover '(lean agda arend)
   #:learning '(natural model
                modules, dependencies, and cache format
