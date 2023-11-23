@@ -11,7 +11,7 @@
                terimation property: sized/glued dependent type
                homotopy/cubical type theory
                modal logic & its properties)
-  #:mail "dannypsnl@gmail.com"
+  #:mail "dannypsnl@protonmail.com"
   #:pronouns: '(He Him)
   #:os '(MacOS)
   #:languages: '((Taiwanese . thian-jiân)
