@@ -6,10 +6,10 @@
   #:focus-on '(PLT Networking OS)
   #:language '(ocaml haskell idris2 elixir racket)
   #:prover '(lean agda aya)
-  #:learning '(natural model
+  #:learning '(inductive families
+               natural model
                modules, dependencies, and cache format
                terimation property: sized/glued dependent type
-               homotopy/cubical type theory
                modal logic & its properties)
   #:mail "dannypsnl@protonmail.com"
   #:pronouns: '(He Him)
