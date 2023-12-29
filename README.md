@@ -4,8 +4,8 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(PLT Networking OS)
-  #:language '(ocaml haskell idris2 elixir racket)
-  #:prover '(lean agda aya)
+  #:language '(ocaml elixir haskell racket)
+  #:prover '(lean agda)
   #:learning '(inductive families
                natural model
                modules, dependencies, and cache format
