@@ -13,7 +13,7 @@
                modal logic & its properties)
   #:mail "dannypsnl@protonmail.com"
   #:pronouns: '(He Him)
-  #:os '(MacOS)
+  #:os '(EndeavorOS MacOS)
   #:languages: '((Taiwanese . thian-jiân)
                  (Chinese . 母語)
                  (English . fluent)
