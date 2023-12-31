@@ -11,7 +11,7 @@
                modules, dependencies, and cache format
                terimation property: sized/glued dependent type
                modal logic & its properties)
-  #:mail "dannypsnl@protonmail.com"
+  #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(EndeavorOS MacOS)
   #:languages: '((Taiwanese . thian-jiân)
