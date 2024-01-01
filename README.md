@@ -22,3 +22,7 @@
                  (Deutsch . Ich kann kein Deutsch sprechen))
   #:fun-fact '(most native speakers of Chinese/Taiwanese cannot pronounce my name correctly at first))
 ```
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannypsnl&show_icons=true&locale=en" alt="dannypsnl profile" />
+</p>
