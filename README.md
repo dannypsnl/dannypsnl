@@ -6,6 +6,7 @@
   #:focus-on '(PLT Networking OS)
   #:language '(ocaml elixir haskell racket)
   #:prover '(lean agda)
+  #:math-tools '(sagemath julia)
   #:learning '(inductive families
                natural model
                modules, dependencies, and cache format
