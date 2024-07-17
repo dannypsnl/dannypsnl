@@ -7,9 +7,9 @@
   #:language '(ocaml elixir haskell racket)
   #:prover '(lean agda)
   #:math-tools '(sagemath julia)
-  #:learning '(inductive families
-               natural model
-               modules, dependencies, and cache format
+  #:learning '(natural model
+               higher-order computability
+               Riemann manifold
                terimation property: sized/glued dependent type
                modal logic & its properties)
   #:mail "inbox@dannypsnl.me"
