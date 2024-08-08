@@ -10,7 +10,7 @@
   #:learning '(natural model
                higher-order computability
                Riemann manifold
-               terimation property: sized/glued dependent type
+               termination property: sized/glued dependent type
                modal logic & its properties)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
