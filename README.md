@@ -10,11 +10,11 @@
   #:learning '(natural model
                higher-order computability
                Riemann manifold
-               termination property: sized/glued dependent type
-               modal logic & its properties)
+               algebraic effects
+               termination property: sized/glued dependent type)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
-  #:os '(EndeavourOS MacOS)
+  #:os '(NixOS MacOS)
   #:languages: '((Taiwanese . thian-jiân)
                  (Chinese . 母語)
                  (English . fluent)
