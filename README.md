@@ -10,7 +10,6 @@
   #:learning '(natural model
                higher-order computability
                Riemann manifold
-               algebraic effects
                termination property: sized/glued dependent type)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
