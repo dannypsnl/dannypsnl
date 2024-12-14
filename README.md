@@ -7,9 +7,10 @@
   #:language '(ocaml elixir haskell racket)
   #:prover '(lean agda)
   #:math-tools '(sagemath julia)
-  #:learning '(natural model
+  #:learning '(geodesics
+               Ricci flow
+               natural model of dependent type
                higher-order computability
-               Riemann manifold
                termination property: sized/glued dependent type)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
