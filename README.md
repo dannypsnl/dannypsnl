@@ -9,9 +9,7 @@
   #:math-tools '(sagemath julia)
   #:learning '(geodesics
                Ricci flow
-               natural model of dependent type
-               higher-order computability
-               termination property: sized/glued dependent type)
+               natural model of dependent type)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
