@@ -7,9 +7,10 @@
   #:language '(ocaml elixir haskell racket)
   #:prover '(lean agda)
   #:math-tools '(sagemath julia)
-  #:learning '(geodesics
-               Ricci flow
-               natural model of dependent type)
+  #:learning '(synthetic differential geometry
+               diffeology
+               geodesics
+               Ricci flow)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
