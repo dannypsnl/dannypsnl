@@ -3,7 +3,7 @@
   #:name (cond [(know-taiwanese? you) "Lîm Tsú-thuàn"]
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
-  #:focus-on '(PLT Networking OS)
+  #:focus-on '(topos geometry)
   #:language '(ocaml elixir haskell racket)
   #:prover '(lean agda)
   #:math-tools '(sagemath julia)
