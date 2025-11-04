@@ -5,8 +5,8 @@
                [else "Danny"])
   #:focus-on '(topos geometry)
   #:language '(ocaml elixir haskell racket)
-  #:prover '(lean agda)
-  #:math-tools '(sagemath julia)
+  #:proof-assistant '(lean agda)
+  #:math-tool '(sagemath julia)
   #:learning '(synthetic differential geometry
                diffeology
                Ricci flow)
