@@ -9,7 +9,6 @@
   #:math-tools '(sagemath julia)
   #:learning '(synthetic differential geometry
                diffeology
-               geodesics
                Ricci flow)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
