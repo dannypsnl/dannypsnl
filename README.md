@@ -4,7 +4,7 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(topos geometry)
-  #:language '(ocaml elixir haskell racket)
+  #:programming-language '(racket haskell ocaml elixir)
   #:proof-assistant '(lean agda)
   #:math-tool '(sagemath julia)
   #:learning '(synthetic differential geometry
