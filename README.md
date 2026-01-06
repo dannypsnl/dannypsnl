@@ -18,5 +18,5 @@
                  (Finnish . Osaan puhua vähän suomea)
                  (Japanese . 日本語がわからない)
                  (Deutsch . Ich kann kein Deutsch sprechen))
-  #:fun-fact '(most native speakers of Chinese/Taiwanese cannot pronounce my name correctly at first))
+  #:fun-fact '(most native speakers of Chinese/Taiwanese don't know how to pronounce my name at first))
 ```
