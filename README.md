@@ -8,8 +8,7 @@
   #:proof-assistant '(lean agda)
   #:math-tool '(sagemath julia)
   #:learning '(synthetic differential geometry
-               diffeology
-               Ricci flow)
+               oracle modalities)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
