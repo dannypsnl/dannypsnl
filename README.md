@@ -5,10 +5,11 @@
                [else "Danny"])
   #:focus-on '(topos geometry)
   #:programming-language '(racket haskell ocaml elixir)
-  #:proof-assistant '(lean agda)
-  #:math-tool '(sagemath julia)
-  #:learning '(synthetic differential geometry
-               oracle modalities)
+  #:proof-assistant '(agda lean)
+  #:math-tool '(sagemath)
+  #:learning '(synthetic geometry
+               oracle modalities
+               lexical scope v.s. dynamic scope)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS)
