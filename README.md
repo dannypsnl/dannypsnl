@@ -12,7 +12,7 @@
                lexical scope v.s. dynamic scope)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
-  #:os '(NixOS MacOS)
+  #:os '(NixOS MacOS Guix)
   #:languages: '((Taiwanese . thian-jiân)
                  (Chinese . 母語)
                  (English . fluent)
