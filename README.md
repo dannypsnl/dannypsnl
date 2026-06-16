@@ -4,12 +4,11 @@
                [(know-chinese? you) "林子篆"]
                [else "Danny"])
   #:focus-on '(topos geometry)
-  #:programming-language '(racket haskell ocaml elixir)
-  #:proof-assistant '(agda lean)
+  #:programming-language '(racket ocaml elixir haskell)
+  #:proof-assistant '(agda violet lean)
   #:math-tool '(sagemath)
   #:learning '(synthetic geometry
-               oracle modalities
-               lexical scope v.s. dynamic scope)
+               oracle modalities)
   #:mail "inbox@dannypsnl.me"
   #:pronouns: '(He Him)
   #:os '(NixOS MacOS Guix)
