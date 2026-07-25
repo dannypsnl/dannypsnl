@@ -1,1 +1,1 @@
-- https://repo.dannypsnl.me/dannypsnl?tab=overview
+- https://repo.dannypsnl.me/dannypsnl
